@@ -8,7 +8,7 @@ potensiometer untuk mengubah frekuensi, tekan tombol untuk menyalakan
 atau mematikan alat.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/2p8xPMx1I9M
 
 > Catatan jujur: efektivitas pengusir nyamuk ultrasonik masih
 > diperdebatkan secara ilmiah. Alat ini membunyikan frekuensi yang
